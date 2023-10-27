@@ -1,12 +1,12 @@
--👋 Hi, I'm @arjundarji-eth
+-Hi, I'm @arjundarji-eth
 
--👀 I'm interested in data science, technology, marketing, and startups.
+-I'm interested in data science, technology, marketing, and startups.
 
--🌱 I'm currently learning about, artificial intelligence, and natural language processing.
+-I'm currently learning about, artificial intelligence, and natural language processing.
 
--💞️ I'm looking to collaborate on challenging data science, and technology problems at a growing startup. I'm also interested in learning more about marketing and product development.
+-I'm looking to collaborate on challenging data science, and technology problems at a growing startup. I'm also interested in learning more about marketing and product development.
 
--📫 How to reach me:
+-How to reach me:
 
 Email: arjun.onemotion@gmail.com
 
